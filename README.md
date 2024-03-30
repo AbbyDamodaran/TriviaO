@@ -29,6 +29,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![W5 TriviaO](https://github.com/AbbyDamodaran/TriviaO/assets/78409617/36bc4461-2691-425c-96a3-174b76a83331)
+
 ## License
 
     Copyright [2024] [Abinaya Damodaran]
